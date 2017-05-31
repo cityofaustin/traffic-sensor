@@ -10,23 +10,22 @@ Welcome to the ATX Open Source Traffic Sensor, a [City of Austin]() initative to
 #### Goals
 
 #### Tasks
-Data Collection
+
+##### Data Collection
 - Wifi
 - Bluetooth
 - Environmental (temperature, humidty, etc.)
 - Device Status/Performance
 - ??
 
-Network Architecture + Device Management (Amazon IoT?)
+##### Network Architecture + Device Management (Amazon IoT?)
 
-Data Access/publication (portal)
+##### Data Access/publication (portal)
 
-Visual Analytics / Dashboard
+##### Visual Analytics / Dashboard
 - Travel Time
 - Volume
 - Device type (vehicle, phone, other)
-
-Hardware Assessment
 
 #### Resources
 - Slack
