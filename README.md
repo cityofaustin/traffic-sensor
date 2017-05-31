@@ -7,9 +7,9 @@ Welcome to the ATX Open Source Traffic Sensor, a [City of Austin]() initative to
  * [Resources](#resources)
 
 
-#### Goals
+### Goals
 
-#### Tasks
+### Tasks
 
 ##### Data Collection
 - Wifi
@@ -27,6 +27,6 @@ Welcome to the ATX Open Source Traffic Sensor, a [City of Austin]() initative to
 - Volume
 - Device type (vehicle, phone, other)
 
-#### Resources
+### Resources
 - Slack
 - Device logins
