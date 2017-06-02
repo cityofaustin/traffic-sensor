@@ -3,7 +3,8 @@ This is a City of Austin initative to create a network of traffic sensors built 
 
  * [Vision](#vision)
  * [Project Components](#project-components)
- * [Resources](#resources)
+ * [Hardware](#hardware)
+ * [Talk to Us](#talk-to-us)
 
 ## Vision
 Our goal is to create a network of traffic sensors built with commodity hardware and open-source software. We intend to make the sensor software and collected data publicly available so that research institutions, private companies, and the general public can help us derive new insights about Austin’s transportation system. 
@@ -39,9 +40,8 @@ Write a program to manage the traffic sensors remotely. The application should a
  * Origin-Destination Analysis
 
 
-## Resources
+## Hardware
 
-### Hardware
 We'll have the following equipment on-hand during the ATX Hack for Change:
  * [Raspbery Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)'s running Raspbian installed via [NOOBS](https://www.raspberrypi.org/downloads/noobs/). SSH is enabled with the [defaul user login](https://www.raspberrypi.org/documentation/linux/usage/users.md).
  * [External WiFi USB adapters](https://www.amazon.com/gp/product/B00H95C0A2/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) which use the RT5370 chipset.
@@ -49,7 +49,7 @@ We'll have the following equipment on-hand during the ATX Hack for Change:
  * [Class 1 Bluetooth 4.0 USB adapter](https://www.amazon.com/gp/product/B012EVAME6/ref=oh_aui_detailpage_o04_s01?ie=UTF8&psc=1)
 
 
-### Talk to Us
+## Talk to Us
  * Slack (details TBD)
  * Email <a href="mailto:HackTheTraffic@austintexas.gov" target="_top">HackTheTraffic@austintexas.gov</a>
  
