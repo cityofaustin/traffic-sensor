@@ -16,27 +16,27 @@ We do not have the IT resources to take on this project by ourselves, and commer
 ### Data Collection 
 
 Write a data collection program to run on an SBC (single board computer) such as a Raspberry Pi, an Arduino, or an Edison. The program can use WiFi, Bluetooth, environmental data, and/or any other sensor technology that the SBC supports. The software should:
- * output data can be easily consumed for processing and analysis.
+ * produce data that can be easily consumed for processing and analysis.
  * anonymize MAC addresses, ESSIDs, IP addresses, or any other potentially sensitive data
 
 ### Traffic Data Processing
 
-Process collected WiFi, Bluetooth, and other data to derive meaninful information about traffic conditions. Outputs might include:
+Create a tool which which processes collected WiFi, Bluetooth, and other data to derive meaninful information about traffic conditions. Outputs might include:
   * Travel Time
   * Traffic Volume
   * Roadway user classification (motorized vehicle, pedestrian, etc.)
 
 ### Device Management
 
-Write a program to manage the traffic sensors remotely. The application should allow the end-user to:
+Write a program that manages the traffic sensors remotely. The application should allow the end-user to:
  * retrieve information about installed sensors, including device status, device location, memory usage, etc.
  * configure and deploy a new traffic sensor
  * remotely push software updates to sensors
 
 ### Visual Analysis
  Create a web-application to visualize the Austin transportation network in a way that incorporates the traffic sensor data. The application might display:
- * Real-Time Traffic Conditions Map
- * Traffic Conditions Time-Series 
+ * Real-Time Traffic Conditions
+ * How Traffic Conditions Change by day of week and time of day
  * Origin-Destination Analysis
 
 
