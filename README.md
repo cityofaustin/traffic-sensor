@@ -14,11 +14,9 @@ We do not have the IT resources to take on this project by ourselves, and commer
 
 ### Data Collection 
 
-Write a data collection program to run on an SBC (single board computer) such as a Raspberry Pi, an Arduino, or an Edison. The program can use WiFi, Bluetooth, environmental data, and/or any other sensor technology that the SBC supports. 
-
-Key Requirements
+Write a data collection program to run on an SBC (single board computer) such as a Raspberry Pi, an Arduino, or an Edison. The program can use WiFi, Bluetooth, environmental data, and/or any other sensor technology that the SBC supports. The software should:
  * output data can be easily consumed for processing and analysis.
- * the software should anonymize MAC addresses, ESSIDs, IP addresses, or any other potentially sensitive data
+ * anonymize MAC addresses, ESSIDs, IP addresses, or any other potentially sensitive data
 
 ### Traffic Data Processing
 
