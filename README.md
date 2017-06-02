@@ -1,6 +1,6 @@
 # ATX Traffic Data Collection Network
 
-<img src="/media/cabinet_pi_sm.jpg" align="right" alt="A Raspberry Pi in a traffic signal cabinet." height="250px"> 
+<img src="/media/cabinet_pi_sm.jpg" align="right" alt="A Raspberry Pi in a traffic signal cabinet." height="275px"> 
 
 This is a City of Austin initative to create a network of traffic sensors built with commodity hardware and open-source software. We're kicking off this project at the [2017 ATX Hack for Change](http://atxhackforchange.org/).
 
@@ -9,11 +9,7 @@ This is a City of Austin initative to create a network of traffic sensors built 
  * [Hardware](#hardware)
  * [Talk to Us](#talk-to-us)
 
-
-
-
-
-
+<br><br><br>
 
 ## Vision
 
