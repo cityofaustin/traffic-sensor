@@ -49,7 +49,7 @@ Write a program that manages the traffic sensors remotely. The application shoul
 ## Hardware
 
 We'll have the following equipment on-hand during the ATX Hack for Change:
- * [Raspbery Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)'s running Raspbian installed via [NOOBS](https://www.raspberrypi.org/downloads/noobs/). SSH is enabled with the [defaul user login](https://www.raspberrypi.org/documentation/linux/usage/users.md).
+ * [Raspbery Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)'s running Raspbian installed via [NOOBS](https://www.raspberrypi.org/downloads/noobs/). SSH is enabled with the [default user login](https://www.raspberrypi.org/documentation/linux/usage/users.md).
  * [External WiFi USB adapters](https://www.amazon.com/gp/product/B00H95C0A2/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) which use the RT5370 chipset.
  * [DHT22 Digital Temperature and Humidity Sensors](https://www.amazon.com/gp/product/B01K1Q6DEO/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1)
  * [Class 1 Bluetooth 4.0 USB adapters](https://www.amazon.com/gp/product/B012EVAME6/ref=oh_aui_detailpage_o04_s01?ie=UTF8&psc=1)
