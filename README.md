@@ -12,9 +12,7 @@ We do not have the IT resources to take on this project by ourselves, and commer
  
 ## Project Components
 
-We've identified four components of this project, outlined below.
-
-#### Data Collection 
+### Data Collection 
 
 Write a data collection program to run on an SBC (single board computer) such as a Raspberry Pi, an Arduino, or an Edison. The program can use WiFi, Bluetooth, environmental data, and/or any other sensor technology that the SBC supports. 
 
