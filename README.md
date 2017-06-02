@@ -22,17 +22,21 @@ Key Requirements
  * output data can be easily consumed for processing and analysis.
  * the software should anonymize MAC addresses, ESSIDs, IP addresses, or any other potentially sensitive data
 
-#### Traffic Data Processing
+### Traffic Data Processing
 
-Process collected data WiFI, Bluetooth, and any other data to derive meaninful information about traffic conditions. Outputs might include:
+Process collected WiFi, Bluetooth, and other data to derive meaninful information about traffic conditions. Outputs might include:
   * Travel Time
   * Traffic Volume
   * Roadway user classification (motorized vehicle, pedestrian, etc.)
 
-#### Device Management
+### Device Management
 
+Write a program to manage the traffic sensors remotely. The application should allow the end-user to:
+ * retrieve information about installed sensors, including device status, device location, memory usage, etc.
+ * configure and deploy a new traffic sensor
+ * remotely push software updates to sensors
 
-#### Visual Analysis
+### Visual Analysis
  Create a web-application to visualize the Austin transportation network in a way that incorporates the traffic sensor data. The application might display:
  * Real-Time Traffic Conditions Map
  * Traffic Conditions Time-Series 
@@ -40,7 +44,8 @@ Process collected data WiFI, Bluetooth, and any other data to derive meaninful i
 
 
 ## Resources
- * Hardware
- * AWS
- * Slack
+
+### Hardware
+### AWS
+### Slack
  
