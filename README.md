@@ -8,12 +8,14 @@ This is a City of Austin initative to create a network of traffic sensors built 
 
 ## Vision
 
-<img src="/media/cabinet_pi_sm.jpg" align="right" alt="A Raspberry Pi in a traffic signal cabinet."> 
+<div><img src="/media/cabinet_pi_sm.jpg" align="left" alt="A Raspberry Pi in a traffic signal cabinet."> 
 
 Our goal is to create a network of traffic sensors built with commodity hardware and open-source software. We intend to make the sensor software and collected data publicly available so that research institutions, private companies, and the general public can help us derive new insights about Austin’s transportation system. 
 
 We do not have the IT resources to take on this project by ourselves, and commercial data collection solutions are prohibitively expensive. That’s why we’re seeking help from Austin’s incredible community of civic-minded technologists to help us achieve our goal. We believe strongly that, if successful, this project will lead to tangible improvements in Austin’s transportation system, and will represent a truly innovative approach to the deployment of community-driven smart city technologies.
- 
+
+</div>
+
 ## Project Tasks
 
 ### Data Collection 
