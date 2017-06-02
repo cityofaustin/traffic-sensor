@@ -15,7 +15,7 @@ Our goal is to create a network of traffic sensors built with commodity hardware
 
 We do not have the IT resources to take on this project by ourselves, and commercial data collection solutions are prohibitively expensive. That’s why we’re seeking help from Austin’s incredible community of civic-minded technologists to help us achieve our goal. We believe strongly that, if successful, this project will lead to tangible improvements in Austin’s transportation system, and will represent a truly innovative approach to the deployment of community-driven smart city technologies.
 
-<br><br>
+<br>
 
 ## Project Tasks
 
