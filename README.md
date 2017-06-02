@@ -1,6 +1,6 @@
 # ATX Traffic Data Collection Network
 
-This is a City of Austin initative to create a network of traffic sensors built with commodity hardware and open-source software. We're kicking off this project at the [2017 ATX Hack for Change](http://atxhackforchange.org/).
+This is a City of Austin initative to create a network of traffic sensors built with commodity hardware and open-source software. We're kicking off this project at the [2017 ATX Hack for Change](http://atxhackforchange.org/) and are sponsoring it as part of the [GigaTECHs App Competition](https://herox.com/GigaTECHSATX/guidelines).
 
  * [Vision](#vision)
  * [Project Tasks](#project-tasks)
