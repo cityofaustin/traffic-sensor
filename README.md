@@ -9,7 +9,7 @@ This is a City of Austin initative to create a network of traffic sensors built 
  * [Hardware](#hardware)
  * [Talk to Us](#talk-to-us)
 
-<br><br><br>
+<br><br>
 
 ## Vision
 
